@@ -1,0 +1,553 @@
+[
+    {
+        "Title": [
+            "Ben-Hur"
+        ],
+        "Rating": [
+            "8.1"
+        ],
+        "Genre": [
+            "\nAdventure, Drama, History            "
+        ]
+    },
+    {
+        "Title": [
+            "Titanic"
+        ],
+        "Rating": [
+            "7.8"
+        ],
+        "Genre": [
+            "\nDrama, Romance            "
+        ]
+    },
+    {
+        "Title": [
+            "The Lord of the Rings: The Return of the King"
+        ],
+        "Rating": [
+            "8.9"
+        ],
+        "Genre": [
+            "\nAdventure, Drama, Fantasy            "
+        ]
+    },
+    {
+        "Title": [
+            "West Side Story"
+        ],
+        "Rating": [
+            "7.5"
+        ],
+        "Genre": [
+            "\nCrime, Drama, Musical            "
+        ]
+    },
+    {
+        "Title": [
+            "Gigi"
+        ],
+        "Rating": [
+            "6.7"
+        ],
+        "Genre": [
+            "\nComedy, Musical, Romance            "
+        ]
+    },
+    {
+        "Title": [
+            "The Last Emperor"
+        ],
+        "Rating": [
+            "7.7"
+        ],
+        "Genre": [
+            "\nBiography, Drama, History            "
+        ]
+    },
+    {
+        "Title": [
+            "The English Patient"
+        ],
+        "Rating": [
+            "7.4"
+        ],
+        "Genre": [
+            "\nDrama, Romance, War            "
+        ]
+    },
+    {
+        "Title": [
+            "Gone with the Wind"
+        ],
+        "Rating": [
+            "8.1"
+        ],
+        "Genre": [
+            "\nDrama, History, Romance            "
+        ]
+    },
+    {
+        "Title": [
+            "From Here to Eternity"
+        ],
+        "Rating": [
+            "7.6"
+        ],
+        "Genre": [
+            "\nDrama, Romance, War            "
+        ]
+    },
+    {
+        "Title": [
+            "On the Waterfront"
+        ],
+        "Rating": [
+            "8.1"
+        ],
+        "Genre": [
+            "\nCrime, Drama, Thriller            "
+        ]
+    },
+    {
+        "Title": [
+            "My Fair Lady"
+        ],
+        "Rating": [
+            "7.8"
+        ],
+        "Genre": [
+            "\nDrama, Family, Musical            "
+        ]
+    },
+    {
+        "Title": [
+            "Cabaret"
+        ],
+        "Rating": [
+            "7.8"
+        ],
+        "Genre": [
+            "\nDrama, Musical            "
+        ]
+    },
+    {
+        "Title": [
+            "Gandhi"
+        ],
+        "Rating": [
+            "8"
+        ],
+        "Genre": [
+            "\nBiography, Drama, History            "
+        ]
+    },
+    {
+        "Title": [
+            "Amadeus"
+        ],
+        "Rating": [
+            "8.3"
+        ],
+        "Genre": [
+            "\nBiography, Drama, History            "
+        ]
+    },
+    {
+        "Title": [
+            "Slumdog Millionaire"
+        ],
+        "Rating": [
+            "8"
+        ],
+        "Genre": [
+            "\nDrama, Romance            "
+        ]
+    },
+    {
+        "Title": [
+            "The Best Years of Our Lives"
+        ],
+        "Rating": [
+            "8"
+        ],
+        "Genre": [
+            "\nDrama, Romance, War            "
+        ]
+    },
+    {
+        "Title": [
+            "The Bridge on the River Kwai"
+        ],
+        "Rating": [
+            "8.1"
+        ],
+        "Genre": [
+            "\nAdventure, Drama, War            "
+        ]
+    },
+    {
+        "Title": [
+            "Lawrence of Arabia"
+        ],
+        "Rating": [
+            "8.3"
+        ],
+        "Genre": [
+            "\nAdventure, Biography, Drama            "
+        ]
+    },
+    {
+        "Title": [
+            "Patton"
+        ],
+        "Rating": [
+            "7.9"
+        ],
+        "Genre": [
+            "\nBiography, Drama, War            "
+        ]
+    },
+    {
+        "Title": [
+            "The Sting"
+        ],
+        "Rating": [
+            "8.3"
+        ],
+        "Genre": [
+            "\nComedy, Crime, Drama            "
+        ]
+    },
+    {
+        "Title": [
+            "Out of Africa"
+        ],
+        "Rating": [
+            "7.2"
+        ],
+        "Genre": [
+            "\nBiography, Drama, Romance            "
+        ]
+    },
+    {
+        "Title": [
+            "Dances with Wolves"
+        ],
+        "Rating": [
+            "8"
+        ],
+        "Genre": [
+            "\nAdventure, Drama, Western            "
+        ]
+    },
+    {
+        "Title": [
+            "Schindler's List"
+        ],
+        "Rating": [
+            "8.9"
+        ],
+        "Genre": [
+            "\nBiography, Drama, History            "
+        ]
+    },
+    {
+        "Title": [
+            "Shakespeare in Love"
+        ],
+        "Rating": [
+            "7.1"
+        ],
+        "Genre": [
+            "\nComedy, Drama, History            "
+        ]
+    },
+    {
+        "Title": [
+            "Gravity"
+        ],
+        "Rating": [
+            "7.7"
+        ],
+        "Genre": [
+            "\nDrama, Sci-Fi, Thriller            "
+        ]
+    }
+][
+    {
+        "Title": [
+            "<a href=\"/title/tt0052618/\">Ben-Hur</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">8.1</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nAdventure, Drama, History            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0120338/\">Titanic</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">7.8</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nDrama, Romance            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0167260/\">The Lord of the Rings: The Return of the King</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">8.9</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nAdventure, Drama, Fantasy            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0055614/\">West Side Story</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">7.5</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nCrime, Drama, Musical            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0051658/\">Gigi</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">6.7</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nComedy, Musical, Romance            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0093389/\">The Last Emperor</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">7.7</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nBiography, Drama, History            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0116209/\">The English Patient</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">7.4</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nDrama, Romance, War            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0031381/\">Gone with the Wind</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">8.1</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nDrama, History, Romance            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0045793/\">From Here to Eternity</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">7.6</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nDrama, Romance, War            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0047296/\">On the Waterfront</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">8.1</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nCrime, Drama, Thriller            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0058385/\">My Fair Lady</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">7.8</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nDrama, Family, Musical            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0068327/\">Cabaret</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">7.8</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nDrama, Musical            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0083987/\">Gandhi</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">8</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nBiography, Drama, History            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0086879/\">Amadeus</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">8.3</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nBiography, Drama, History            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt1010048/\">Slumdog Millionaire</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">8</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nDrama, Romance            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0036868/\">The Best Years of Our Lives</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">8</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nDrama, Romance, War            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0050212/\">The Bridge on the River Kwai</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">8.1</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nAdventure, Drama, War            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0056172/\">Lawrence of Arabia</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">8.3</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nAdventure, Biography, Drama            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0066206/\">Patton</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">7.9</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nBiography, Drama, War            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0070735/\">The Sting</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">8.3</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nComedy, Crime, Drama            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0089755/\">Out of Africa</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">7.2</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nBiography, Drama, Romance            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0099348/\">Dances with Wolves</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">8</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nAdventure, Drama, Western            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0108052/\">Schindler's List</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">8.9</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nBiography, Drama, History            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt0138097/\">Shakespeare in Love</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">7.1</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nComedy, Drama, History            </span>"
+        ]
+    },
+    {
+        "Title": [
+            "<a href=\"/title/tt1454468/\">Gravity</a>"
+        ],
+        "Rating": [
+            "<span class=\"ipl-rating-star__rating\">7.7</span>"
+        ],
+        "Genre": [
+            "<span class=\"genre\">\nDrama, Sci-Fi, Thriller            </span>"
+        ]
+    }
+]

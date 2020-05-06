@@ -1,0 +1,203 @@
+[
+    {
+        "Title": "Ben-Hur",
+        "Rating": "8.1",
+        "Genre": [
+            "\nAdventure, Drama, History            "
+        ]
+    },
+    {
+        "Title": "Titanic",
+        "Rating": "7.8",
+        "Genre": [
+            "\nDrama, Romance            "
+        ]
+    },
+    {
+        "Title": "The Lord of the Rings: The Return of the King",
+        "Rating": "8.9",
+        "Genre": [
+            "\nAdventure, Drama, Fantasy            "
+        ]
+    },
+    {
+        "Title": "West Side Story",
+        "Rating": "7.5",
+        "Genre": [
+            "\nCrime, Drama, Musical            "
+        ]
+    },
+    {
+        "Title": "Gigi",
+        "Rating": "6.7",
+        "Genre": [
+            "\nComedy, Musical, Romance            "
+        ]
+    },
+    {
+        "Title": "The Last Emperor",
+        "Rating": "7.7",
+        "Genre": [
+            "\nBiography, Drama, History            "
+        ]
+    },
+    {
+        "Title": "The English Patient",
+        "Rating": "7.4",
+        "Genre": [
+            "\nDrama, Romance, War            "
+        ]
+    },
+    {
+        "Title": "Gone with the Wind",
+        "Rating": "8.1",
+        "Genre": [
+            "\nDrama, History, Romance            "
+        ]
+    },
+    {
+        "Title": "From Here to Eternity",
+        "Rating": "7.6",
+        "Genre": [
+            "\nDrama, Romance, War            "
+        ]
+    },
+    {
+        "Title": "On the Waterfront",
+        "Rating": "8.1",
+        "Genre": [
+            "\nCrime, Drama, Thriller            "
+        ]
+    },
+    {
+        "Title": "My Fair Lady",
+        "Rating": "7.8",
+        "Genre": [
+            "\nDrama, Family, Musical            "
+        ]
+    },
+    {
+        "Title": "Cabaret",
+        "Rating": "7.8",
+        "Genre": [
+            "\nDrama, Musical            "
+        ]
+    },
+    {
+        "Title": "Gandhi",
+        "Rating": "8",
+        "Genre": [
+            "\nBiography, Drama, History            "
+        ]
+    },
+    {
+        "Title": "Amadeus",
+        "Rating": "8.3",
+        "Genre": [
+            "\nBiography, Drama, History            "
+        ]
+    },
+    {
+        "Title": "Slumdog Millionaire",
+        "Rating": "8",
+        "Genre": [
+            "\nDrama, Romance            "
+        ]
+    },
+    {
+        "Title": "The Best Years of Our Lives",
+        "Rating": "8",
+        "Genre": [
+            "\nDrama, Romance, War            "
+        ]
+    },
+    {
+        "Title": "The Bridge on the River Kwai",
+        "Rating": "8.1",
+        "Genre": [
+            "\nAdventure, Drama, War            "
+        ]
+    },
+    {
+        "Title": "Lawrence of Arabia",
+        "Rating": "8.3",
+        "Genre": [
+            "\nAdventure, Biography, Drama            "
+        ]
+    },
+    {
+        "Title": "Patton",
+        "Rating": "7.9",
+        "Genre": [
+            "\nBiography, Drama, War            "
+        ]
+    },
+    {
+        "Title": "The Sting",
+        "Rating": "8.3",
+        "Genre": [
+            "\nComedy, Crime, Drama            "
+        ]
+    },
+    {
+        "Title": "Out of Africa",
+        "Rating": "7.2",
+        "Genre": [
+            "\nBiography, Drama, Romance            "
+        ]
+    },
+    {
+        "Title": "Dances with Wolves",
+        "Rating": "8",
+        "Genre": [
+            "\nAdventure, Drama, Western            "
+        ]
+    },
+    {
+        "Title": "Schindler's List",
+        "Rating": "8.9",
+        "Genre": [
+            "\nBiography, Drama, History            "
+        ]
+    },
+    {
+        "Title": "Shakespeare in Love",
+        "Rating": "7.1",
+        "Genre": [
+            "\nComedy, Drama, History            "
+        ]
+    },
+    {
+        "Title": "Gravity",
+        "Rating": "7.7",
+        "Genre": [
+            "\nDrama, Sci-Fi, Thriller            "
+        ]
+    }
+][
+{"Title": ["Ben-Hur"], "Rating": ["8.1"], "Genre": ["\nAdventure, Drama, History            "]},
+{"Title": ["Titanic"], "Rating": ["7.8"], "Genre": ["\nDrama, Romance            "]},
+{"Title": ["The Lord of the Rings: The Return of the King"], "Rating": ["8.9"], "Genre": ["\nAdventure, Drama, Fantasy            "]},
+{"Title": ["West Side Story"], "Rating": ["7.5"], "Genre": ["\nCrime, Drama, Musical            "]},
+{"Title": ["Gigi"], "Rating": ["6.7"], "Genre": ["\nComedy, Musical, Romance            "]},
+{"Title": ["The Last Emperor"], "Rating": ["7.7"], "Genre": ["\nBiography, Drama, History            "]},
+{"Title": ["The English Patient"], "Rating": ["7.4"], "Genre": ["\nDrama, Romance, War            "]},
+{"Title": ["Gone with the Wind"], "Rating": ["8.1"], "Genre": ["\nDrama, History, Romance            "]},
+{"Title": ["From Here to Eternity"], "Rating": ["7.6"], "Genre": ["\nDrama, Romance, War            "]},
+{"Title": ["On the Waterfront"], "Rating": ["8.1"], "Genre": ["\nCrime, Drama, Thriller            "]},
+{"Title": ["My Fair Lady"], "Rating": ["7.8"], "Genre": ["\nDrama, Family, Musical            "]},
+{"Title": ["Cabaret"], "Rating": ["7.8"], "Genre": ["\nDrama, Musical            "]},
+{"Title": ["Gandhi"], "Rating": ["8"], "Genre": ["\nBiography, Drama, History            "]},
+{"Title": ["Amadeus"], "Rating": ["8.3"], "Genre": ["\nBiography, Drama, History            "]},
+{"Title": ["Slumdog Millionaire"], "Rating": ["8"], "Genre": ["\nDrama, Romance            "]},
+{"Title": ["The Best Years of Our Lives"], "Rating": ["8"], "Genre": ["\nDrama, Romance, War            "]},
+{"Title": ["The Bridge on the River Kwai"], "Rating": ["8.1"], "Genre": ["\nAdventure, Drama, War            "]},
+{"Title": ["Lawrence of Arabia"], "Rating": ["8.3"], "Genre": ["\nAdventure, Biography, Drama            "]},
+{"Title": ["Patton"], "Rating": ["7.9"], "Genre": ["\nBiography, Drama, War            "]},
+{"Title": ["The Sting"], "Rating": ["8.3"], "Genre": ["\nComedy, Crime, Drama            "]},
+{"Title": ["Out of Africa"], "Rating": ["7.2"], "Genre": ["\nBiography, Drama, Romance            "]},
+{"Title": ["Dances with Wolves"], "Rating": ["8"], "Genre": ["\nAdventure, Drama, Western            "]},
+{"Title": ["Schindler's List"], "Rating": ["8.9"], "Genre": ["\nBiography, Drama, History            "]},
+{"Title": ["Shakespeare in Love"], "Rating": ["7.1"], "Genre": ["\nComedy, Drama, History            "]},
+{"Title": ["Gravity"], "Rating": ["7.7"], "Genre": ["\nDrama, Sci-Fi, Thriller            "]}
+]
